@@ -1,3 +1,3 @@
 # Aboutme
 created to add readme file
-<h1> Hi All Welcome to Arasamannar's GitHub profile 👋 </h1>
+<h1 style="align-content: center"> Hi All Welcome to Arasamannar's GitHub profile 👋 </h1>
